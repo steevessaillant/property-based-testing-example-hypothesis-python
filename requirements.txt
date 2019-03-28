@@ -1,0 +1,5 @@
+py-dateutil
+hypothesis
+pandas
+pytest
+pytest-cov
